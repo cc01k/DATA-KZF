@@ -27,6 +27,20 @@
                 "Sisa Ongkos": 10000,
                 "Keuntungan": 0
             }
+        },
+        {
+            "date": "2024-12-12",
+            "list": {
+                "Bumbu": 0,
+                "Sambal": 0,
+                "Sisa Gaji": 0,
+                "Uang AC": 0,
+                "Krupuk": 0,
+                "Udang": 0,
+                "Es + Kas": 0,
+                "Sisa Ongkos": 0,
+                "Keuntungan": 0
+            }
         }
     ]
 }
